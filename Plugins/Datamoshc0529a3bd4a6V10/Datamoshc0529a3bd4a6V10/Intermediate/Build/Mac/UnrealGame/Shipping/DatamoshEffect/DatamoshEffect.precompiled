@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Shipping/DatamoshEffect/Module.DatamoshEffect.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/DatamoshEffect/Module.DatamoshEffect.cpp.o",
+		"../../../x64/UnrealGame/Shipping/DatamoshEffect/Module.DatamoshEffect.cpp.o",
+		"../../../x64/UnrealGame/Shipping/DatamoshEffect/Module.DatamoshEffect.cpp.o"
+	]
+}
